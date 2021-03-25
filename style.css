@@ -13,7 +13,7 @@
 }
 
 body {
-    font-family: 'New Tegomin', serif;
+    font-family: 'Roboto Mono', monospace;
     color: var(--figura);
     background: var(--fondo);
     line-height: 1.25;
